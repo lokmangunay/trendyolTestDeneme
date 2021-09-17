@@ -19,7 +19,7 @@ public class Add_A_Product_To_Cart extends BaseTest {
         Assertions.assertTrue(homePage.isOnHomePage(),
                 "trendyol.com is not opened!");
     }
-
+            // Git
     @Test
     @Order(2)
     public void logIn() {
